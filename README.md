@@ -1,2 +1,2 @@
-# cohomology
-Advancing Physical AI through world models, simulation, and learning
+# Cohomology
+Advancing Physical AI through world models, interactive simulation, and embodied learning.

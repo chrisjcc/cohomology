@@ -315,7 +315,7 @@ This is a conceptual schema. Implement it with Pydantic/protobuf and version it 
 A proposed monorepo layout:
 
 ```text
-physical-ai-research-platform/
+cohomology/
 ├── README.md
 ├── pyproject.toml
 ├── uv.lock
@@ -341,7 +341,7 @@ physical-ai-research-platform/
 │       ├── llm.yaml
 │       └── cosmos.yaml
 ├── src/
-│   └── physical_ai/
+│   └── cohomology/
 │       ├── contracts/
 │       │   ├── observations.py
 │       │   ├── actions.py
